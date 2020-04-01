@@ -1,13 +1,13 @@
 {
-  "main.css": "/jacorea-portfolio/static/css/main.8f641832.chunk.css",
-  "main.js": "/jacorea-portfolio/static/js/main.99e49a6b.chunk.js",
-  "main.js.map": "/jacorea-portfolio/static/js/main.99e49a6b.chunk.js.map",
-  "static/js/1.d5a97679.chunk.js": "/jacorea-portfolio/static/js/1.d5a97679.chunk.js",
-  "static/js/1.d5a97679.chunk.js.map": "/jacorea-portfolio/static/js/1.d5a97679.chunk.js.map",
-  "runtime~main.js": "/jacorea-portfolio/static/js/runtime~main.daa1923f.js",
-  "runtime~main.js.map": "/jacorea-portfolio/static/js/runtime~main.daa1923f.js.map",
-  "static/css/main.8f641832.chunk.css.map": "/jacorea-portfolio/static/css/main.8f641832.chunk.css.map",
-  "index.html": "/jacorea-portfolio/index.html",
-  "precache-manifest.531f62a92149c08a8e0da64926259ce2.js": "/jacorea-portfolio/precache-manifest.531f62a92149c08a8e0da64926259ce2.js",
-  "service-worker.js": "/jacorea-portfolio/service-worker.js"
+  "main.css": "/static/css/main.8f641832.chunk.css",
+  "main.js": "/static/js/main.14ec64cc.chunk.js",
+  "main.js.map": "/static/js/main.14ec64cc.chunk.js.map",
+  "static/js/1.d5a97679.chunk.js": "/static/js/1.d5a97679.chunk.js",
+  "static/js/1.d5a97679.chunk.js.map": "/static/js/1.d5a97679.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/css/main.8f641832.chunk.css.map": "/static/css/main.8f641832.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.7ec9692b4c20e44ab57f8cdf44c00258.js": "/precache-manifest.7ec9692b4c20e44ab57f8cdf44c00258.js",
+  "service-worker.js": "/service-worker.js"
 }
